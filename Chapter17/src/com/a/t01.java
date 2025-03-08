@@ -21,11 +21,11 @@ public class t01 {
     }
 }
 
- // 继承了Thread类，，该类就成为了一个线程。
- // 重写了run方法，实现自己的业务逻辑，run方法就是线程体
- // Thread类实现了Runnable接口的run方法
- // 启动线程：start()方法
- //启动线程不一定立即执行，由cpu调度执行
+// 继承了Thread类，，该类就成为了一个线程。
+// 重写了run方法，实现自己的业务逻辑，run方法就是线程体
+// Thread类实现了Runnable接口的run方法
+// 启动线程：start()方法
+//启动线程不一定立即执行，由cpu调度执行
 
 class Cat extends Thread {
     @Override
