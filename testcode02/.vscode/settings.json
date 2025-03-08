@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "demo\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "d:\\JDK8\\lib\\ant-javafx.jar",
+        "d:\\JDK8\\lib\\jconsole.jar",
+        "d:\\JDK8\\lib\\sa-jdi.jar",
+        "d:\\JDK8\\lib\\packager.jar",
+        "d:\\JDK8\\lib\\javafx-mx.jar",
+        "d:\\JDK8\\lib\\dt.jar",
+        "d:\\JDK8\\lib\\tools.jar"
+    ],
+    "java.project.outputPath": "demo\\bin"
+}

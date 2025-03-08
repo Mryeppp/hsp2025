@@ -1,0 +1,1 @@
+vscode 改变 环境变量 可以将全局默认jdk变成jdk其他版本；也可以使用maven构建项目，ctrl+shift+p 修改 java runtime ，修改pom.xml，让该项目使用某个版本的编译器
